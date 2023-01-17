@@ -1,16 +1,22 @@
-### Hi there 👋
+#😭
 
-<!--
-**leudemon/leudemon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👀 Who is Brian?:
+Brian is...🥺<br><br>
 
-Here are some ideas to get you started:
+a young Software developer 👩‍💻<br>
+Motivated to learn 📚, grow🦾 and excel👑. <br>
+I have over three years of experience working with different programming languages.😅<br>
+I am very passionate about computers / technology 💻 <br>
+My mission is to sustain and improve Africa's information and technology infrastructure <br>
+by developing all sorts of software and otherwise improving digital literacy in my communicity.<br>
+I also aim at contributing to organisations with asimilar or related motive.<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ _I am a __software engineering__ student at the African Leadership University<br>
+__I love challenges__. challenge me and we'll both grow from it.<br>
+ its just fascinating how the most complex tool on the planet
+makes life so simple..._
+### thanks! ☺
+
+
+## 📱 find me here:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](/https://www.linkedin.com/in/AvitBrian/)
